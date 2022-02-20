@@ -1,0 +1,20 @@
+html {
+  width: 100%;
+  margin: 0;
+}
+
+body {
+  text-align: center;
+  background-color: #24242C;
+  color: #FCC200;
+}
+
+li {
+  display: block;
+  float: left;
+  width: 15vw;
+  border: 2px solid #24242C;
+  height: 16vh;
+  background-color: #FCC200;
+  color: #24242C;
+}
